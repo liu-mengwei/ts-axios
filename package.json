@@ -1,0 +1,19 @@
+{
+  "name": "ts-axios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liu-mengwei/ts-axios.git"
+  },
+  "author": "liu-mengwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liu-mengwei/ts-axios/issues"
+  },
+  "homepage": "https://github.com/liu-mengwei/ts-axios#readme"
+}
